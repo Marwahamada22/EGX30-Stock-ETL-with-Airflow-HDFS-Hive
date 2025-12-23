@@ -1,7 +1,8 @@
 # EGX30-Stock-ETL-with-Airflow-HDFS-Hive
 Automated daily data pipeline to extract EGX30 stock prices, validate them, and load them into Hive using Apache Airflow.
 
-![Uploading image.png…]()
+
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/a8fa0b30-3bde-4e63-a410-7f84847b32fd" />
 
 EGX30 Stock Data Engineering Pipeline
 
